@@ -275,6 +275,7 @@ a:active {
 @media (max-width: 526px){
   .title {
     border-bottom: none;
+    font-size: 1.4em;
   }
   .wildlife {
     margin-top: 4em;
